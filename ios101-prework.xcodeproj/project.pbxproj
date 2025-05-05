@@ -10,22 +10,9 @@
 		CE689D682DB8440300F51253 /* ios101-prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios101-prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CE689D7A2DB8440600F51253 /* Exceptions for "ios101-prework" folder in "ios101-prework" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = CE689D672DB8440300F51253 /* ios101-prework */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		CE689D6A2DB8440300F51253 /* ios101-prework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				CE689D7A2DB8440600F51253 /* Exceptions for "ios101-prework" folder in "ios101-prework" target */,
-			);
 			path = "ios101-prework";
 			sourceTree = "<group>";
 		};
