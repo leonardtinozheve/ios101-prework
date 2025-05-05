@@ -15,9 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+[<width="50%">]( https://github.com/leonardtinozheve/ios101-prework/blob/main/Prework.gif "Leonard Zheve iOS 101 Prework")
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 My favorite app and their best features are:
